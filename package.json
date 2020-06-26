@@ -2,22 +2,22 @@
   "name": "createuniqueid",
   "displayName": "Create Unique Ids",
   "description": "Create Unique Ids, UUID/GUID or random numbers, and copy to clipboard or insert into editor.",
-  "version": "0.0.3",
-  "publisher": "donjayamanne",
+  "version": "0.0.4",
+  "publisher": "danlogan",
   "license": "SEE LICENSE IN LICENSE or README.MD",
-  "homepage": "https://github.com/DonJayamanne/createidsvscode/blob/master/README.md",
+  "homepage": "https://github.com/danlogan9/createidsvscode/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DonJayamanne/createidsvscode.git"
+    "url": "https://github.com/danlogan9/createidsvscode/createidsvscode.git"
   },
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^0.10.1"
   },
-	"galleryBanner": {
-        "color": "#0000FF",
-        "theme": "dark"
-    },
+  "galleryBanner": {
+    "color": "#0000FF",
+    "theme": "dark"
+  },
   "categories": [
     "Other"
   ],
